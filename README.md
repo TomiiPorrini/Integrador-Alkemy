@@ -2,7 +2,7 @@
 
 Construir una aplicación con Django para agregar nuevos clientes y poder listarlos.
 
-# COMO COMENZAR
+# Cómo comenzar:
 1. Clonar el repositorio e ir a la consola y colocar el siguiente comando:
 
 ```
@@ -59,7 +59,7 @@ Se pide crear un proyecto que podría ser llamado StockControl:
 * Generar el archivo requirements del proyecto
 
 
-### Para tener en cuenta:
+### ‼ Para tener en cuenta  
 
 Para poder ingresar en el Admin, los datos son:
 * user: Admin
