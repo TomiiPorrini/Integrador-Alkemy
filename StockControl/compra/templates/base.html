@@ -18,8 +18,10 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="">Productos</a>
-              <a class="nav-link" href="">Proveedores</a>
+              <a class="nav-link active" href="{% url 'Lista-Productos' %}">Productos</a>
+              <a class="nav-link " href="{% url 'Crear-Producto' %}">Alta Producto</a>
+              <a class="nav-link active" href="{% url 'Lista-Proveedores' %}">Proveedores</a>
+              <a class="nav-link" href="{% url 'Crear-Proveedor' %}">Alta Proveedor</a>
 
             </div>
           </div>
